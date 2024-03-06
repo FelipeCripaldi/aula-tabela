@@ -1,0 +1,16 @@
+tr, td{
+  padding: 0 40px;
+  color: white;
+}
+
+.tb-moda{
+  background-color:  #BB86FC;
+}
+
+td{
+  background-color: #424250;
+}
+
+.tb-casa{
+  background-color: #00C4B4;
+}
